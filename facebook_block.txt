@@ -1,0 +1,10 @@
+# Facebook + Instagram + Messenger - Auto Update
+*.facebook.com
+*.fbcdn.net
+*.fbcdn.com
+*.messenger.com
+*.fbsbx.com
+*.instagram.com
+*.cdninstagram.com
+*.meta.com
+*.oculus.com
