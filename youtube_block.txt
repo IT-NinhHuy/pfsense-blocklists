@@ -1,0 +1,12 @@
+# YouTube Domains - Auto Update Table
+*.youtube.com
+*.googlevideo.com
+*.ytimg.com
+*.youtubei.googleapis.com
+*.youtubekids.com
+*.youtu.be
+*.youtube-nocookie.com
+*.ytimg.l.google.com
+*.youtube.googleapis.com
+*.ytstatic.com
+*.youtubeeducation.com
