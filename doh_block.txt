@@ -1,0 +1,11 @@
+# DNS-over-HTTPS / DNS-over-TLS Blocklist
+cloudflare-dns.com
+mozilla.cloudflare-dns.com
+dns.google
+dns.quad9.net
+doh.opendns.com
+doh.dns.sb
+doh.pub
+resolver1.opendns.com
+dns.nextdns.io
+dns.adguard.com
