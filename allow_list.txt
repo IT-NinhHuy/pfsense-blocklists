@@ -1,130 +1,189 @@
-########################################
-# GOOGLE - CORE & LOGIN & API
-########################################
+# ---------------------------
+# GOOGLE - CORE, LOGIN, APIs
+# ---------------------------
 google.com
 www.google.com
-gstatic.com
-ssl.gstatic.com
-www.gstatic.com
-*.gstatic.com
-googleusercontent.com
-*.googleusercontent.com
-
-# Google Login / Auth
 accounts.google.com
 accounts.youtube.com
 identity.google.com
 identity.googleapis.com
 oauthaccountmanager.googleapis.com
-optimizationguide-pa.googleapis.com
 clientservices.googleapis.com
 content.googleapis.com
-sandbox.googleapis.com
+optimizationguide-pa.googleapis.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+ogs.google.com
+encrypted.google.com
+clients.l.google.com
+clients4.google.com
 
-########################################
-# GOOGLE DRIVE / DOCS / SHEETS / MEET
-########################################
+# Google static / CDN
+gstatic.com
+www.gstatic.com
+ssl.gstatic.com
+fonts.gstatic.com
+fonts.googleapis.com
+googleusercontent.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
+redirector.gvt1.com
+gvt1.com
+gvt2.com
+*.gvt1.com
+*.gvt2.com
+
+# Google Search / helpers / telemetry
+www.google.com
+search.google.com
+ajax.googleapis.com
+pagead2.googlesyndication.com
+pagead.l.doubleclick.net
+content-autofill.googleapis.com
+play.googleapis.com
+update.googleapis.com
+mtalk.google.com
+
+# Google Drive / Docs / Sheets / Slides / Meet
 drive.google.com
 docs.google.com
 sheets.google.com
 slides.google.com
 meet.google.com
 meetings.googleapis.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
-
-########################################
-# GOOGLE API BACKEND (bắt buộc)
-########################################
-googleapis.com
-*.googleapis.com
-www.googleapis.com
 storage.googleapis.com
 
-########################################
-# MICROSOFT / LOGIN / ONEDRIVE
-########################################
+# Google APIs backend
+googleapis.com
+www.googleapis.com
+generativelanguage.googleapis.com
+gemini.google.com
+
+# Google Play / updates (if clients need)
+play.google.com
+play.googleapis.com
+
+# ---------------------------
+# MICROSOFT / ONEDRIVE / OFFICE365
+# ---------------------------
 microsoft.com
-*.microsoft.com
-office.com
-*.office.com
-office365.com
-live.com
-login.live.com
+www.microsoft.com
 login.microsoftonline.com
+login.live.com
+live.com
+office.com
+www.office.com
+office365.com
 graph.microsoft.com
+graph.windows.net
 onedrive.com
 onedrive.live.com
-*.sharepoint.com
 storage.live.com
+sharepoint.com
+*.sharepoint.com
+api.onedrive.com
+login.windows.net
 
-########################################
-# CHATGPT / OPENAI
-########################################
+# ---------------------------
+# OPENAI / CHATGPT
+# ---------------------------
 openai.com
 chat.openai.com
 api.openai.com
 openaipublic.blob.core.windows.net
 
-########################################
-# GEMINI AI
-########################################
-gemini.google.com
-generativelanguage.googleapis.com
-
-########################################
+# ---------------------------
 # FIGMA
-########################################
+# ---------------------------
 figma.com
 www.figma.com
 api.figma.com
 fonts.figma.com
 
-########################################
-# TELEGRAM - FULL BACKEND
-########################################
+# ---------------------------
+# WHATSAPP (WEB + APP)
+# ---------------------------
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+static.whatsapp.net
+mmg.whatsapp.net
+*.whatsapp.net
+
+# ---------------------------
+# TELEGRAM (WEB + APP)
+# ---------------------------
 telegram.org
-*.telegram.org
 web.telegram.org
 api.telegram.org
-cdn-telegram.org
-*.cdn-telegram.org
 t.me
 telegram.me
-tg.dev
+cdn-telegram.org
+updates.t.me
 
-########################################
-# ZALO - FULL BACKEND
-########################################
+# ---------------------------
+# ZALO (WEB + APP + ZDN CDN)
+# ---------------------------
 zalo.me
-*.zalo.me
+www.zalo.me
 zaloapp.com
-*.zaloapp.com
+www.zaloapp.com
 api.zalo.me
 api-chat.zalo.me
+chat.zalo.me
 stc.za.zdn.vn
 za.zdn.vn
-*.zdn.vn
+zdn.vn
 v3.zdn.vn
 static-zalo.zdn.vn
 zalo-api.zdn.vn
 
-########################################
-# WHATSAPP - FULL BACKEND
-########################################
-whatsapp.com
-www.whatsapp.com
-web.whatsapp.com
-*.whatsapp.net
-*.whatsapp.com
-static.whatsapp.net
-
-########################################
+# ---------------------------
 # TECHASIANS MAIL
-########################################
+# ---------------------------
 mail.techasians.com
 smtp.techasians.com
 imap.techasians.com
 mx.techasians.com
+
+# ---------------------------
+# ADDITIONAL INFRA & CDNs / COMMON
+# ---------------------------
+cdn.jsdelivr.net
+cdnjs.cloudflare.com
+ajax.googleapis.com
+akamaihd.net
+akamaized.net
+akamaitechnologies.com
+cloudfront.net
+cloudflare.com
+cdnjs.com
+edgekey.net
+edgesuite.net
+fastly.net
+
+# ---------------------------
+# SYSTEM / OS UPDATE ENDPOINTS (OPTIONAL, recommended)
+# ---------------------------
+windowsupdate.com
+update.microsoft.com
+download.windowsupdate.com
+dl.delivery.mp.microsoft.com
+
+# ---------------------------
+# EXTRA: vendor or third party often required
+# ---------------------------
+stats.g.doubleclick.net
+clients2.google.com
+clients2.google.com
+ssl.gstatic.com
+
+# ---------------------------
+# END OF LIST
+# ---------------------------
