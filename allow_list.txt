@@ -1,0 +1,100 @@
+# ----------------------------
+# GOOGLE SERVICES (FULL)
+# ----------------------------
+google.com
+www.google.com
+accounts.google.com
+apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+ssl.gstatic.com
+gstatic.com
+fonts.gstatic.com
+googleusercontent.com
+*.googleusercontent.com
+
+# Google Drive
+drive.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+lh3.googleusercontent.com
+
+# Gmail
+mail.google.com
+smtp.gmail.com
+imap.gmail.com
+
+# Google Meet
+meet.google.com
+
+# Google APIs
+googleapis.com
+*.googleapis.com
+
+# Gemini
+gemini.google.com
+
+# ----------------------------
+# MICROSOFT SERVICES (ONEDRIVE)
+# ----------------------------
+login.microsoftonline.com
+microsoft.com
+*.microsoft.com
+onedrive.live.com
+onedrive.com
+*.office.com
+office.com
+graph.microsoft.com
+
+# ----------------------------
+# OPENAI (CHATGPT)
+# ----------------------------
+chat.openai.com
+api.openai.com
+openaipublic.blob.core.windows.net
+
+# ----------------------------
+# FIGMA
+# ----------------------------
+figma.com
+www.figma.com
+api.figma.com
+fonts.figma.com
+
+# ----------------------------
+# WHATSAPP (Web + App)
+# ----------------------------
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+*.whatsapp.net
+*.whatsapp.com
+
+# ----------------------------
+# TELEGRAM (Web + App)
+# ----------------------------
+telegram.org
+*.telegram.org
+t.me
+web.telegram.org
+api.telegram.org
+
+# ----------------------------
+# ZALO (Web + App)
+# ----------------------------
+zalo.me
+zaloapp.com
+*.zalo.me
+*.zaloapp.com
+
+# ----------------------------
+# TECHASIANS MAIL
+# ----------------------------
+mail.techasians.com
+smtp.techasians.com
+imap.techasians.com
