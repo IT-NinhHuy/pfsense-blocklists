@@ -1,132 +1,119 @@
-###############################
-# GOOGLE SERVICES (FULL STACK)
-###############################
-
-# Core Google
+########################################
+# GOOGLE - CORE & LOGIN & API
+########################################
 google.com
 www.google.com
 gstatic.com
-*.gstatic.com
 ssl.gstatic.com
 www.gstatic.com
-fonts.gstatic.com
+*.gstatic.com
 googleusercontent.com
 *.googleusercontent.com
 
-# Google Login
+# Google Login / Auth
 accounts.google.com
 accounts.youtube.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
 identity.google.com
-oauthaccountmanager.googleapis.com
 identity.googleapis.com
-clientservices.googleapis.com
+oauthaccountmanager.googleapis.com
 optimizationguide-pa.googleapis.com
+clientservices.googleapis.com
+content.googleapis.com
+sandbox.googleapis.com
 
-# Google API backend
-googleapis.com
-*.googleapis.com
-www.googleapis.com
-
-# Google Drive
+########################################
+# GOOGLE DRIVE / DOCS / SHEETS / MEET
+########################################
 drive.google.com
 docs.google.com
 sheets.google.com
 slides.google.com
+meet.google.com
+meetings.googleapis.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
 
-# Google Meet
-meet.google.com
-meetings.googleapis.com
+########################################
+# GOOGLE API BACKEND (bắt buộc)
+########################################
+googleapis.com
+*.googleapis.com
+www.googleapis.com
+storage.googleapis.com
 
-# Google Mail
-mail.google.com
-smtp.gmail.com
-imap.gmail.com
-
-# Google Fonts
-fonts.googleapis.com
-
-# Gemini AI
-gemini.google.com
-generativelanguage.googleapis.com
-
-###########################################
-# MICROSOFT / ONEDRIVE / OFFICE 365
-###########################################
-
+########################################
+# MICROSOFT / LOGIN / ONEDRIVE
+########################################
 microsoft.com
 *.microsoft.com
 office.com
 *.office.com
 office365.com
 live.com
-login.microsoftonline.com
 login.live.com
+login.microsoftonline.com
 graph.microsoft.com
-
-# OneDrive
 onedrive.com
 onedrive.live.com
 *.sharepoint.com
 storage.live.com
 
-###########################################
-# OPENAI (CHATGPT)
-###########################################
-
+########################################
+# CHATGPT / OPENAI
+########################################
 openai.com
 chat.openai.com
 api.openai.com
 openaipublic.blob.core.windows.net
 
-###########################################
-# FIGMA
-###########################################
+########################################
+# GEMINI AI
+########################################
+gemini.google.com
+generativelanguage.googleapis.com
 
+########################################
+# FIGMA
+########################################
 figma.com
 www.figma.com
 api.figma.com
 fonts.figma.com
 
-###########################################
-# TELEGRAM (FULL WEB + APP)
-###########################################
-
+########################################
+# TELEGRAM - FULL BACKEND
+########################################
 telegram.org
 *.telegram.org
-t.me
 web.telegram.org
 api.telegram.org
 cdn-telegram.org
 *.cdn-telegram.org
+t.me
 telegram.me
 tg.dev
 
-###########################################
-# ZALO (APP + WEB + API)
-###########################################
-
+########################################
+# ZALO - FULL BACKEND
+########################################
 zalo.me
 *.zalo.me
 zaloapp.com
 *.zaloapp.com
-chat.zalo.me
+api.zalo.me
+api-chat.zalo.me
 stc.za.zdn.vn
+za.zdn.vn
 *.zdn.vn
+v3.zdn.vn
+static-zalo.zdn.vn
+zalo-api.zdn.vn
 
-###########################################
-# WHATSAPP (APP + WEB)
-###########################################
-
+########################################
+# WHATSAPP - FULL BACKEND
+########################################
 whatsapp.com
 www.whatsapp.com
 web.whatsapp.com
@@ -134,10 +121,9 @@ web.whatsapp.com
 *.whatsapp.com
 static.whatsapp.net
 
-###########################################
+########################################
 # TECHASIANS MAIL
-###########################################
-
+########################################
 mail.techasians.com
 smtp.techasians.com
 imap.techasians.com
