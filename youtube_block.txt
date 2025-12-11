@@ -10,3 +10,9 @@
 *.youtube.googleapis.com
 *.ytstatic.com
 *.youtubeeducation.com
+youtube.com
+googlevideo.com
+ytimg.com
+youtubei.googleapis.com
+yt3.ggpht.com
+s.youtube.com
