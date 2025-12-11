@@ -1,21 +1,37 @@
-# ----------------------------
-# GOOGLE SERVICES (FULL)
-# ----------------------------
+###############################
+# GOOGLE SERVICES (FULL STACK)
+###############################
+
+# Core Google
 google.com
 www.google.com
+gstatic.com
+*.gstatic.com
+ssl.gstatic.com
+www.gstatic.com
+fonts.gstatic.com
+googleusercontent.com
+*.googleusercontent.com
+
+# Google Login
 accounts.google.com
-apis.google.com
+accounts.youtube.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-ssl.gstatic.com
-gstatic.com
-fonts.gstatic.com
-googleusercontent.com
-*.googleusercontent.com
+identity.google.com
+oauthaccountmanager.googleapis.com
+identity.googleapis.com
+clientservices.googleapis.com
+optimizationguide-pa.googleapis.com
+
+# Google API backend
+googleapis.com
+*.googleapis.com
+www.googleapis.com
 
 # Google Drive
 drive.google.com
@@ -23,78 +39,106 @@ docs.google.com
 sheets.google.com
 slides.google.com
 lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
 
-# Gmail
+# Google Meet
+meet.google.com
+meetings.googleapis.com
+
+# Google Mail
 mail.google.com
 smtp.gmail.com
 imap.gmail.com
 
-# Google Meet
-meet.google.com
+# Google Fonts
+fonts.googleapis.com
 
-# Google APIs
-googleapis.com
-*.googleapis.com
-
-# Gemini
+# Gemini AI
 gemini.google.com
+generativelanguage.googleapis.com
 
-# ----------------------------
-# MICROSOFT SERVICES (ONEDRIVE)
-# ----------------------------
-login.microsoftonline.com
+###########################################
+# MICROSOFT / ONEDRIVE / OFFICE 365
+###########################################
+
 microsoft.com
 *.microsoft.com
-onedrive.live.com
-onedrive.com
-*.office.com
 office.com
+*.office.com
+office365.com
+live.com
+login.microsoftonline.com
+login.live.com
 graph.microsoft.com
 
-# ----------------------------
+# OneDrive
+onedrive.com
+onedrive.live.com
+*.sharepoint.com
+storage.live.com
+
+###########################################
 # OPENAI (CHATGPT)
-# ----------------------------
+###########################################
+
+openai.com
 chat.openai.com
 api.openai.com
 openaipublic.blob.core.windows.net
 
-# ----------------------------
+###########################################
 # FIGMA
-# ----------------------------
+###########################################
+
 figma.com
 www.figma.com
 api.figma.com
 fonts.figma.com
 
-# ----------------------------
-# WHATSAPP (Web + App)
-# ----------------------------
-whatsapp.com
-www.whatsapp.com
-web.whatsapp.com
-*.whatsapp.net
-*.whatsapp.com
+###########################################
+# TELEGRAM (FULL WEB + APP)
+###########################################
 
-# ----------------------------
-# TELEGRAM (Web + App)
-# ----------------------------
 telegram.org
 *.telegram.org
 t.me
 web.telegram.org
 api.telegram.org
+cdn-telegram.org
+*.cdn-telegram.org
+telegram.me
+tg.dev
 
-# ----------------------------
-# ZALO (Web + App)
-# ----------------------------
+###########################################
+# ZALO (APP + WEB + API)
+###########################################
+
 zalo.me
-zaloapp.com
 *.zalo.me
+zaloapp.com
 *.zaloapp.com
+chat.zalo.me
+stc.za.zdn.vn
+*.zdn.vn
 
-# ----------------------------
+###########################################
+# WHATSAPP (APP + WEB)
+###########################################
+
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+*.whatsapp.net
+*.whatsapp.com
+static.whatsapp.net
+
+###########################################
 # TECHASIANS MAIL
-# ----------------------------
+###########################################
+
 mail.techasians.com
 smtp.techasians.com
 imap.techasians.com
+mx.techasians.com
