@@ -348,3 +348,10 @@ id.zalo.me
 13.227.227.59
 13.227.227.86
 13.227.227.94
+arkoselabs.com
+client-api.arkoselabs.com
+api.arkoselabs.com
+status.arkoselabs.com
+arkose.com
+recaptcha.net
+gstatic.com
