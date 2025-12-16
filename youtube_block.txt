@@ -1,6 +1,5 @@
 youtube.com
+www.youtube.com
+m.youtube.com
 googlevideo.com
-ytimg.com
 youtubei.googleapis.com
-yt3.ggpht.com
-s.youtube.com
